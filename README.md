@@ -144,4 +144,4 @@ Includes: orders, customers, products, sellers, payments, reviews, geolocation.
 ## Author
 
 **N Sai** — B.Tech Computer Science Engineering (2026)  
-[GitHub](https://github.com/YOUR_USERNAME)
+[GitHub](https://github.com/mikey470-sai)
